@@ -6,4 +6,4 @@ Technologies:
 - Webpack
 - CSS
 
-Link to game: https://angelika-plonka.github.io/FurryGame/
+Link to game: https://angelika-developer.github.io/FurryGame/
